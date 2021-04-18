@@ -9,7 +9,7 @@ name = 'Ourlogger',         # How you named your package folder (MyLib)
   author = 'Peleg Wurzel',                   # Type in your name
   author_email = 'Peleg525@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/peleg525/Ourlogger.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/peleg525/Ourlogger/archive/refs/tags/V_02.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/peleg525/Ourlogger/archive/refs/tags/V_03.tar.gz',    # I explain this later on
   keywords = ['logs'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
