@@ -1,1 +1,1 @@
-from packagename.Filename import Classname
+from Ourlogger.Ourlogger import Ourlogger
