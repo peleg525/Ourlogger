@@ -1,1 +1,1 @@
-from Ourlogger.Ourlogger import Ourlogger
+from Ourlogger.Ourlogger import logger
